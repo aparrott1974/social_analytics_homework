@@ -1,0 +1,6 @@
+User,Compound,Negative,Neutral,Positive,Tweet Count,color
+@bbcnews,0.05,0.852,0.065,0.083,326,red
+@cbsnews,-0.041,0.875,0.064,0.061,439,yellow
+@cnn,-0.019,0.793,0.113,0.094,445,blue
+@foxnews,-0.054,0.86,0.075,0.065,487,green
+@nytimes,-0.007,0.886,0.056,0.058,415,orange
